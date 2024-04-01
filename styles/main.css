@@ -24,6 +24,7 @@ h1 {
     color: #fff;
     margin-bottom: -80px;
     padding: 10px 10px 10px 10px;
+    width: 100vw;
 }
 
 .welcome-box {
@@ -40,12 +41,12 @@ h1 {
 
 .text-left {
   float: left;
-  width: 50%;
+  width: 50vw;
 }
 
 .text-right {
   float: left;
-  width: 50%;
+  width: 50vw;
 }
 
 /* Code for the diagram of a globe */
