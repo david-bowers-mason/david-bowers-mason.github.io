@@ -41,12 +41,12 @@ h1 {
 
 .text-left {
   float: left;
-  width: 50vw;
+  width: 50%;
 }
 
 .text-right {
   float: left;
-  width: 50vw;
+  width: 50%;
 }
 
 /* Code for the diagram of a globe */
