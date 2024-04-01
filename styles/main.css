@@ -1,9 +1,9 @@
-<link href=""
-
-<style>
-
-h1 {
-    margin-bottom: 20px;
-    font-family
-    font-size
+@font-face {
+    font-family: Konstruktor;
+    src: url('fonts/KonstruktorRegular.eot') format('embedded-opentype');
+    src: url('fonts/KonstruktorRegular.woff2') format('woff2');
+    src: url('fonts/KonstruktorRegular.woff') format('woff');
+    src: url('fonts/KonstruktorRegular.ttf') format('truetype');
+    src: url('fonts/KonstruktorRegular.svg') format('svg');
+    font-weight: 700;
 }
