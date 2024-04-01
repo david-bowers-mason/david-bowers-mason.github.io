@@ -32,6 +32,25 @@ h1 {
     padding: 100px;
 }
 
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.text-left {
+  float: left;
+  width: 50%;
+}
+
+.text-right {
+  float: left;
+  width: 50%;
+}
+
+/* Code for the diagram of a globe */
+
+/*
 .globe {
     --globe-color: #333;
     --globe-padding: -
@@ -57,3 +76,5 @@ h1 {
     height: 250px;
     border-radius: 100% 100% 100% 100%;
   }
+
+  */
