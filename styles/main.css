@@ -6,4 +6,20 @@
     src: url('fonts/KonstruktorRegular.ttf') format('truetype');
     src: url('fonts/KonstruktorRegular.svg') format('svg');
     font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+.russo-one-regular {
+    font-family: "Russo One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+h1 {
+    font-family: "Russo One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: #d11;
 }
