@@ -28,14 +28,13 @@ h1 {
     font-size: 10vmin; 
     color: #fff;
     margin-bottom: -25vw;
-    padding: 10px 10px 10px 10px;
     width: 100vw;
 }
 
 .welcome-box {
     background-color: #a11;
     color: #fff;
-    padding: 10vh;
+    padding: 15vmin;
 
 }
 
