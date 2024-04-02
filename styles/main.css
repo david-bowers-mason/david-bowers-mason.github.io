@@ -35,7 +35,8 @@ h1 {
 .welcome-box {
     background-color: #a11;
     color: #fff;
-    padding: 1vh;
+    padding: 10vh;
+
 }
 
 .group:after {
