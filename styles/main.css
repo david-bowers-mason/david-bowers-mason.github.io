@@ -54,6 +54,13 @@ h1 {
   width: 50%;
 }
 
+.footer {
+  position: absolute;
+  bottom 0;
+  left: 0;
+  z-index: 10;
+}
+
 /* Code for the diagram of a globe */
 
 /*
