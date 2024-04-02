@@ -27,7 +27,7 @@ h1 {
     font-style: normal;
     font-size: 10vw; 
     color: #fff;
-    margin-bottom: -80px;
+    margin-bottom: -25vw;
     padding: 10px 10px 10px 10px;
     width: 100vw;
 }
@@ -39,20 +39,16 @@ h1 {
 
 }
 
-.group:after {
+.group::after {
   content: "";
   display: table;
   clear: both;
 }
 
-.text-left {
+.column {
   float: left;
   width: 50%;
-}
-
-.text-right {
-  float: left;
-  width: 50%;
+  padding: 10px;
 }
 
 .attribution {
